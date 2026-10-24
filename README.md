@@ -3,9 +3,8 @@
 Software engineer / engineering manager based in Tokyo, from Toyama.
 Web backend & infra を軸に、プロダクト開発・チームづくり・採用まで幅広くやっています。
 
-- 🚚 Now: [Hacobell](https://www.hacobell.co.jp/) で物流 SaaS の開発
+- 🚚 Now: [Hacobell](https://www.hacobell.com/) で物流 SaaS の開発
 - 🤖 Exploring: Claude Code を使った AI 駆動開発（実装は AI、人間はレビューと動作確認だけ、という体制の実験）
-- 🎮 Side project: Godot 4 で Android 向けのバドミントン × グリッド戦略ゲームを AI に作らせている
 - 🏸 Likes: バドミントン / キャンプ / ゲーム
 
 ### Tech
@@ -20,7 +19,6 @@ Web backend & infra を軸に、プロダクト開発・チームづくり・採
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ### Career
